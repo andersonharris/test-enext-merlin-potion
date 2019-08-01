@@ -1,0 +1,43 @@
+.header-title{
+    color: red;
+    font-size: 30px;
+}
+.header-text{
+    color: blueviolet;
+    font-size: 18px;
+}
+.text-free{
+    color: red;
+}
+.fa-shopping-bag{
+    font-size: 30px;
+    color: rgb(70, 11, 126);
+}
+.text-bag{
+    color: #cccccc;
+}
+
+.submit-lente {
+    position:absolute;
+    top:5px; right:0;
+    z-index:10;
+    border:none;
+    background:transparent;
+    outline:none;
+    font-size: 20px;
+    color: red;
+    
+  }
+  
+  .submit-line {
+    position: relative;
+    width: 250px;
+    
+    
+  }
+  
+  
+  .submit-line input {
+    width: 100%;
+    height: 40px;
+  }

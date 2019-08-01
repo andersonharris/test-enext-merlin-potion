@@ -1,0 +1,7 @@
+.text-potion{
+    font-weight: 600;
+}
+.text-potion span{
+    color: red;
+    font-weight: 300;
+}

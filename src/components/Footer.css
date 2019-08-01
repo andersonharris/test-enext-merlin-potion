@@ -1,0 +1,16 @@
+.bg-color{
+    background-color: #e4e3e3;
+}
+.text-color{
+    color: red;
+}
+.text-copy{
+    color: #646464;
+    font-size: 15px;
+}
+.btn-danger{
+    background-color: red;
+}
+.btn-danger:hover{
+    background-color: rgb(196, 1, 1);
+}
